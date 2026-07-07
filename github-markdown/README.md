@@ -13,3 +13,4 @@ Alterando o README para marcar a colaboração no Github entre NandoAntonio e Na
 
 ---
 Desenvolvido por NandoAntonio
+e por Nandozzz26
